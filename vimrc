@@ -1,4 +1,6 @@
 " My vim config, in github so I can take it with me.
+"
+" Just save the file "vimrc" as "~/.vim/vimrc"
 " 
 " tell vim I am using a dark background
 set background=dark
